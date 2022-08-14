@@ -7,6 +7,7 @@
 ```python
 pkg update && pkg upgrade
 pkg install python
+pkg install play-audio
 pkg install git
 python3 -m pip install requests bs4
 git clone https://github.com/Xenzi-XN1/CFB
