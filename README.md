@@ -17,6 +17,7 @@ python CFB.py
 # Apa saja fungsinya
 + Crack Akun Facebook
 + Check Results Cp/Ok
++ Login Cookie
 
 # Hasil Dari Tools CFB
 ![img](https://github.com/Xenzi-XN1/CFB/blob/main/IMG_20220814_173543.jpg)
