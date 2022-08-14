@@ -19,9 +19,9 @@ python CFB.py
 + Check Results Cp/Ok
 
 # Hasil Dari Tools CFB
-![img]()
+![img](https://github.com/Xenzi-XN1/CFB/blob/main/IMG_20220814_173543.jpg)
 ![img](https://github.com/Xenzi-XN1/CFB/blob/main/IMG_20220814_173531.jpg)
-![img]()
+![img](https://github.com/Xenzi-XN1/CFB/blob/main/IMG_20220814_173628.jpg)
 
 # Thanks to
 ```
